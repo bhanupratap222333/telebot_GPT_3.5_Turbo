@@ -10,17 +10,11 @@
 ## How to run code:
 
 '''bash 
-
-conda create -p env python == 3.7 -y
-
-'''
+ conda create -p env python == 3.7 -y
+ '''
 '''bash
-
-conda activate env\
-
-'''
+ conda activate env\
+ '''
 '''bash
-
-pip install -r requirements.txt
-
-'''
+ pip install -r requirements.txt
+ '''
