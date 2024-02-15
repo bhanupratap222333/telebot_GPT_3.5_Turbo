@@ -1,7 +1,8 @@
 # telebot_GPT_3.5_Turbo
 
 ## prerequisites
--python 3.7
+
+-Python 3.7
 -A telegram account
 -An OpenAI account for API key 
 
